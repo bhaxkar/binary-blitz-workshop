@@ -2,22 +2,6 @@
 
 Our four-day workshop to strengthen your problem-solving skills and master Data Structures & Algorithms (DSA) for beginners. Gain hands-on coding experience, enhance your competitive programming abilities, and get expert guidance for placements.
 
-## Workshop Schedule
-
-### Day 1: Kick start your programming journey
-- Language fundamentals
-- Flow Control statements
-- Conditional Control statements
-
-### Day 2: Problem solving session 1
-- Intro to problem solving (what is test case, time complexity, space complexity, TLE, functional programming)
-- Solving programming problems
-
-### Day 3: Problem solving session 2
-- Practicing problems based on DSA
-
-### Day 4: Problem Solving Session 3
-- Practicing problems based on DSA
 
 ## Contact 
-👾 Bhaskar Jha (✉️ [@bhaxkar](mailto:bhaskarjha.info@gmail.com)  )
+👾 Bhaskar Jha (✉️ [@bhaxkar](mailto:bhaskarjha.info@gmail.com) )
